@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { deleteCartData, loadCartData } from "./service/allApi";
 import { IoMdArrowBack } from "react-icons/io";
-import "./admin.css";
 import { MdDelete } from "react-icons/md";
 import { Link } from "react-router-dom";
 import Box from "@mui/material/Box";
