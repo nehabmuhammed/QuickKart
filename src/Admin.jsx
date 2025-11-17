@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "./admin.css";
+import "./Admin.css";
 import TextField from "@mui/material/TextField";
 import { deleteData, editData, loadData, postData } from "./service/allApi";
 import { useState } from "react";
